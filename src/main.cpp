@@ -10,7 +10,7 @@ void setup() {
   tft.setRotation(2);
   tft.fillScreen(TFT_BLACK);
   tft.setTextColor(TFT_RED); 
-  tft.drawString("Hello World", 20, 30);
+  tft.drawString("aboba", 20, 30);
 }
 
 void loop() {
